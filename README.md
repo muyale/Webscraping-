@@ -1,5 +1,6 @@
 # Webscraping on the books to scrape website with python and beautiful soup
-This is a project on webscraping on the books to scrape website
+This is a project on webscraping on the books to scrape website.
+
 Webscraping is essentially extracting information from a website and then converting the information into a form that 
 a user can use . Webscraping can be quite useful in datascience .However not all websites allow webscraping and it is deemed illegal in some cases. Webscraping works by using a crawler and a a scraper.
 
@@ -7,6 +8,7 @@ Web scraping software accesses  the internet either through HTTP or a web browse
 and the web crawler and web scraper work together to extract specific data from the web pages. There are many webscraping libraries for my case I used Beautiful soup library.
 In webscraping,before data extraction takes place, the webcrawler must fetch the webpage. 
 Fetching refers to the process of downloading a web page and content is then parsed,reformatted, or searched, with the extracted data then loaded into a database or copied into a spreadsheet.
+
 First, the web scraper will be given one or more URLs to load before scraping. for my case it was the bookstoscrapewebsite
 ![Intro](https://github.com/muyale/Webscraping-/assets/111242297/c24ff7c7-d73d-40e8-bbcf-f04afaa4462c)
 
